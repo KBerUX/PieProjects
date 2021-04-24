@@ -1,6 +1,5 @@
 # string concatenation --> How to put strings together
-class testing:
-    pass
+# suppose we want to create a string that says "subscribe to ___"
+youtuber = ""  # some string variable
 
-
-print("lol what is this")
+# ways to do this:
